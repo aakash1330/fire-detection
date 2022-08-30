@@ -15,7 +15,7 @@ def play_alarm_sound_function():
 
 def send_mail_function():
 
-    recipientEmail = "himanshubishnoi@ymail.com"
+    recipientEmail = "aakash.dubey1112@gmail.com"
     recipientEmail = recipientEmail.lower()
 
     try:
